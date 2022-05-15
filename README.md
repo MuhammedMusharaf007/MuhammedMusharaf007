@@ -31,7 +31,7 @@
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMusharaf007&show_icons=true&theme=radical&layout=compact" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammedMusharaf007&theme=dark&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammedMusharaf007&theme=matrix&layout=compact" />
 </div>
 <!--START_SECTION:waka-->
 
