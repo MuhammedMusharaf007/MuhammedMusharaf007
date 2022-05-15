@@ -1,4 +1,4 @@
-### Hi there, I'm <font color="red">Muhammed Musharaf</font>👋
+### Hi there, I'm <p style="color:red">Muhammed Musharaf</p>👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 <br>
