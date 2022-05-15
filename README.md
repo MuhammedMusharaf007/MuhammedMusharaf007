@@ -26,12 +26,12 @@
 <a href="https://www.notion.so/Stuff-to-get-done-8c5a779164934e34aeecab953872b60f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 <br>
 <div>
-  <img style="width:50% inline" src="https://github-readme-stats.vercel.app/api/?username=MuhammedMusharaf007&show_icons=true" />
-  <img style="width:50% inline" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMusharaf007" />
+  <img style="width:50% inline" src="https://github-readme-stats.vercel.app/api/?username=MuhammedMusharaf007&show_icons=true&theme=merko&layout=compact" />
+  <img style="width:50% inline" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMusharaf007&theme=dark&layout=compact" />
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMusharaf007&show_icons=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammedMusharaf007" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMusharaf007&show_icons=true&theme=radical&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammedMusharaf007&theme=dark&layout=compact" />
 </div>
 <!--START_SECTION:waka-->
 
