@@ -26,8 +26,8 @@
 <a href="https://www.notion.so/Stuff-to-get-done-8c5a779164934e34aeecab953872b60f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/?username=MuhammedMusharaf007&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMusharaf007" />
+  <img style="width:50% inline" src="https://github-readme-stats.vercel.app/api/?username=MuhammedMusharaf007&show_icons=true" />
+  <img style="width:50% inline" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMusharaf007" />
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMusharaf007&show_icons=true" />
