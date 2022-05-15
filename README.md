@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?${your.username}.${your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?$page.id={your.username}.${your.repo.id})
 <!--
 **MuhammedMusharaf007/MuhammedMusharaf007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
