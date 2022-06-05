@@ -1,6 +1,6 @@
 <br>
 <img src="/TIME TO PROGRESS.jpg" />
-<img href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix"/>
+<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix"/>
 <a href="https://www.codechef.com/users/musharaf_007"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" /></a>
 <a href="https://www.facebook.com/musharaf.richu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.goodreads.com/user/show/124651538-muhammed-musharaf"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" /></a>
