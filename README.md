@@ -1,5 +1,7 @@
 <br>
 <img src="/TIME TO PROGRESS.jpg" />
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <a href="https://www.codechef.com/users/musharaf_007"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" /></a>
 <a href="https://www.facebook.com/musharaf.richu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.goodreads.com/user/show/124651538-muhammed-musharaf"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" /></a>
@@ -33,6 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMusharaf007&show_icons=true&theme=radical&layout=compact" />
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammedMusharaf007&theme=matrix&layout=compact" />
 </div>
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 <!--START_SECTION:waka-->
 <!-- -->
 <!--END_SECTION:waka-->
